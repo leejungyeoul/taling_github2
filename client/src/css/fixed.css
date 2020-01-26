@@ -1,0 +1,27 @@
+.sitemap_0st {
+    max-height: 40px;
+}
+
+.sitemap a {
+    padding-top: 20px;
+}
+
+.sub_wrap {
+    padding-bottom: 100px;
+}
+
+.m_login .pwd_reset_txt {
+    position: relative;
+    text-align: left;
+    font-size: 14px;
+    line-height: 14px;
+    color: rgba(255,255,255,0.8);
+    padding: 0 14px;
+    font-weight: 400;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.pv_bt.af a, .p_btn_box {
+    cursor: pointer;
+}

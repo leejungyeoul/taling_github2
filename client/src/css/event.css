@@ -1,0 +1,28 @@
+.border_validate_err {
+    border: 1px solid red !important;
+}
+
+.tr_select
+, .tr_click
+, .tr_click2 {
+    background-color : #9cb8ff
+}
+
+.fileBox img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    height: 200px;
+}
+
+.fileBox2 img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    height: 100px;
+}
+
+.swtoolImg img {
+    height: 134px;
+    width: 117px;
+}
